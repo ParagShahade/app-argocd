@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: myapp-test-agrocd
+  name: myapp-nhnix-agrocd
   namespace: argocd
 spec:
   project: default
