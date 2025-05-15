@@ -18,5 +18,5 @@ spec:
     - CreateNamspace=true
     
     automated:
-      sealfHeal: true
+      selfHeal: true
       prune: true
