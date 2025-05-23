@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: myapp-ngnix-agrocd
+  name: myapp-busybox-agrocd
   namespace: argocd
 spec:
   project: default
